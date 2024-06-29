@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/JMsoflo">
   <!-- TODO: If you want to add logo or banner you can add it here -->
 
   </a>
@@ -68,9 +68,9 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Slide in, Fade in effects
+- Zoom in Effect 
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +117,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| How to Add a CSS Fade-in Transition Animation to Text, Images, Scroll & Hover
+Download Now: Free Website Design Inspiration |creating effects from the images| https://blog.hubspot.com/website/css-fade-in#:~:text=In%20the%20CSS%2C%20use%20the,creates%20the%20fade%2Din%20effect. |
+
+| WD-Seatwork-3-TC03 | references some css designs | https://github.com/JMsoflo/WD-Seatwork-3-TC03.git |
