@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-Creating a Features Display Website showcasing distinct design layouts for different features using pure HTML and CSS. The website should include multiple pages for demonstration and emphasize layout design. 
+Creating a Features Display Website showcasing products for their different features using pure HTML and CSS. The website should include multiple pages for demonstration and emphasize layout design. 
 </div>
 
 <br />
@@ -69,8 +69,8 @@ Guiding Question:
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
-- Slide in, Fade in effects
-- Zoom in Effect 
+- Feuture pages
+-  
 
 ### Technology
 <!-- TODO: List of Technology Used -->
