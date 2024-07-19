@@ -59,18 +59,19 @@ Creating a Features Display Website showcasing products for their different feat
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+
+- the project is about creating a features website
+- purpose if this project is to improve skills on html and css designs
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
 - Feuture pages
--  
+- hero parallax zoom
+- fade in
+- fade in upslide
+  
 
 ### Technology
 <!-- TODO: List of Technology Used -->
